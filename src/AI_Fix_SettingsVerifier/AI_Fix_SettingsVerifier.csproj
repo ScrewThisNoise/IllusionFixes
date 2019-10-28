@@ -66,6 +66,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AI.SettingsVerifier.Hooks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="AI.SettingsVerifier.cs" />
   </ItemGroup>
