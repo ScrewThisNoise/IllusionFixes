@@ -10,7 +10,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)AssemblyInfo.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Core.MakerOptimizations.CursorManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Core.MakerOptimizations.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Core.MakerOptimizations.Hooks.cs" />
   </ItemGroup>
